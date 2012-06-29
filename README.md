@@ -2,7 +2,7 @@
 
 From the name you probably know that this is something for Homebrew, also known as a tapestry of formulas (its the terminology they have). It helps you setup a working development environment for MAMP without the need to do it yourself. It includes pesky libraries that you need and had to previously install manually into MAMP so you don't have to drink your fustrations away.
 
-This was brought to you by @noisedev, where the repository will most likely migrate to.
+This was brought to you by [@noisedev](http://github.com/noisedev), where the repository will most likely migrate to.
 
 ## install
 
